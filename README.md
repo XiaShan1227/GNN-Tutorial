@@ -2,6 +2,9 @@
 1.【ICLR-2017 GCN】<br>
 [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 
+2.【NIPS-2017 GraphSAGE】<br>
+[Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
+
 2.【ICLR-2018 GAT】<br>
 [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 
