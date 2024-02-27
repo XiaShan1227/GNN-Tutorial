@@ -15,4 +15,4 @@
 [How Attentive are Graph Attention Networks?](https://arxiv.org/abs/2105.14491)
 
 6.【WWW-2019 HAN】<br>
-[Heterogeneous Graph Attention Network](https://arxiv.org/abs/2105.14491)
+[Heterogeneous Graph Attention Network](https://arxiv.org/abs/1903.07293)
